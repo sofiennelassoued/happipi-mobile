@@ -33,10 +33,6 @@ A side project inspired from [**ZTM UI/UX**](https://www.udemy.com/course/comple
 - Open simulator
 - Drag and drop the downloaded fille in simulator.
 
-## Project Info
-
-Using [husky](https://www.npmjs.com/package/husky) for mainitaing code formatting and eslint rules check before commiting any code in git.
-
 ## Core Package Status
 
 Core package versions info.
